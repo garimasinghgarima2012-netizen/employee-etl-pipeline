@@ -1,0 +1,9 @@
+[
+{"id":101,"name":"awnish kumar","department":"ai","salary":"60000","rating":20,"email":"AWNISH@GMAIL.COM"},
+{"id":102, "name":"Rahul", "department":"CS","salary":"90000","rating":99,"email":"rahul@GMAIL.COM"},
+{"id":103,"name":"Abdul","department":"Backend","salary":"120000","rating":30,"email":"ABDUL@GMAIL.COM"},
+{"id":104,"name":"Sneha","department":"Null","salary":"55000","rating":83,"email":"SNEHA@GMAIL.COM"},
+{"id":105,"name":"garima","department":"AI","salary":"120000","rating":90,"email":"Garima@GMAIL.COM"},
+{"id":103,"name":"Abdul","department":"Backend","salary":"120000","rating":90,"email":"ABDUL@GMAIL.COM"},
+{"id":106,"name":"Akshat","department":"frontend","salary":"10000","rating":55,"email":"akShat@GMAIL.COM"}
+]
